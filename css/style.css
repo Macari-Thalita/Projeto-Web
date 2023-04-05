@@ -1,0 +1,100 @@
+
+body {
+  background-color: #454b59;
+  color: white;
+}
+
+h1 {
+  text-shadow: -0.06em 0 #E91E63, 0.06em 0 #18FFFF;
+  text-align: center;
+  padding: 20px;
+  font-size: 50px;
+}
+
+form {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 20px;
+}
+
+
+h2 {
+  text-shadow: -0.06em 0 #E91E63, 0.06em 0 #18FFFF;
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+}
+
+p {
+  color: white;
+  align-content: center;
+}
+.nav-link {
+  background-color: #c57694;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.nav-link:hover {
+  background-color: #8f3d8f;
+  color: white;
+}
+
+.carousel-inner{
+  overflow: hidden;
+
+}
+
+.lbl {
+  align-content: center;
+}
+
+.btnn {
+  margin: 20px;
+}
+
+.btnn:hover {
+  color: #007bff;
+  background-color: white;
+}
+
+@font-face {
+  font-family: Mono;
+  src: url("../fonts/Mono.otf");
+}
+
+.fonte {
+  font-family: Mono;
+}
+
+.pic {
+width: 100%;
+}
+
+.mrg {
+  margin: 20px;
+}
+.mrg_bottom {
+  margin-bottom: 100px;
+}
+
+.mrg_bottom2 {
+  margin-bottom: 30px;
+}
+
+.letra {
+  font-size: 20px;
+}
+
+.letra_2 {
+  font-size: 30px;
+}
+
+.mrg_top {
+  margin-top: 30px;
+}
+
+.cor_usuario {
+  color: #c57694;
+}
+
